@@ -84,6 +84,7 @@
                                 </subviews>
                                 <constraints>
                                     <constraint firstItem="nDX-fS-Mnh" firstAttribute="height" secondItem="9zd-Pc-bq8" secondAttribute="height" id="Xdr-4K-0BU"/>
+                                    <constraint firstItem="nDX-fS-Mnh" firstAttribute="top" secondItem="9zd-Pc-bq8" secondAttribute="bottom" constant="20" id="Y0D-7Q-u7l"/>
                                     <constraint firstItem="8qk-AU-oya" firstAttribute="height" secondItem="nDX-fS-Mnh" secondAttribute="height" id="dKf-rR-KMS"/>
                                 </constraints>
                             </stackView>
